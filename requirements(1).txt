@@ -1,0 +1,13 @@
+streamlit
+opencv-python-headless
+tensorflow
+numpy
+pandas
+pillow
+scikit-learn
+
+gradio
+tensorflow
+numpy
+pillow
+h5py
